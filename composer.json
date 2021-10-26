@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "arcanedev/support": "^8.0",
-        "laravel-lang/lang": "^9.0"
+        "laravel-lang/lang": "^9.0|^10.0"
     },
     "require-dev": {
         "laravel/framework": "^8.40",
